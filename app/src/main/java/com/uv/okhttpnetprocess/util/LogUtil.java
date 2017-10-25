@@ -3,8 +3,7 @@ package com.uv.okhttpnetprocess.util;
 import android.util.Log;
 
 /**
- * 
- * @author lch
+ * log Util
  * 
  */
 public class LogUtil {
