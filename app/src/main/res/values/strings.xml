@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OKHttpNetProcess</string>
+    <string name="network_error">网络错误</string>
+    <string name="waiting">等，等灯，等等</string>
+</resources>
